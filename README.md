@@ -46,9 +46,10 @@ features:
 - this measure the statistics of those total employees by age-group and attrition
 
 
-![]()
+![](Screenshot%202025-01-03%20155825.png)
 
-
+features:
+- this measure the statistics of those total employees by environmental satisfaction and attrition
 
 
 
