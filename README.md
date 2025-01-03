@@ -51,6 +51,8 @@ features:
 features:
 - this measure the statistics of those total employees by environmental satisfaction and attrition
 
+![]()
+
 
 
 
