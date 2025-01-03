@@ -32,11 +32,16 @@ you can interact with the report [here](https://app.powerbi.com/groups/me/report
 
 ![](Screenshot%202025-01-03%20155415.png)
 
-
 features:
 - this measure the statistics of those employees that are not working with respect to their job roles
 
+![](Screenshot%202025-01-03%20155608.png)
+
+features:
+- this measure the statistics of those employees that are working with respect to their job roles
+
 ![]()
+
 
 
 
