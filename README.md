@@ -40,10 +40,13 @@ features:
 features:
 - this measure the statistics of those employees that are working with respect to their job roles
 
+![](Screenshot%202025-01-03%20155806.png)
+
+features:
+- this measure the statistics of those total employees by age-group and attrition
+
+
 ![]()
-
-
-
 
 
 
