@@ -18,6 +18,17 @@ the following powerbi features were incorporated:
 -chart
 ## modelling:
 Automatically derived relationship,but the table is just one which make it a facttable
+![](Screenshot%202025-01-03%20155123.png)
+
+the model is a star schema without any dependencies
+## visualisation:
+the report comprises of 5 dashboards including insights and recommendations
+1. job roles by attrition
+2. employee by jobrole
+3. total employee by age group and attrition
+4. total employee by environmental and satisfaction
+
+you can interact with the report [here](https://app.powerbi.com/groups/me/reports/75ae97f4-c494-4c64-a343-f154771b48f3/ReportSection?experience=power-bi)
 ![]()
 
 
@@ -30,12 +41,3 @@ Automatically derived relationship,but the table is just one which make it a fac
 
 
 
-
-
-
-
-
--page 
--navigation
--cards
--charts
