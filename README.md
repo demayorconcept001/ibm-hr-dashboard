@@ -29,6 +29,13 @@ the report comprises of 5 dashboards including insights and recommendations
 4. total employee by environmental and satisfaction
 
 you can interact with the report [here](https://app.powerbi.com/groups/me/reports/75ae97f4-c494-4c64-a343-f154771b48f3/ReportSection?experience=power-bi)
+
+![](Screenshot%202025-01-03%20155415.png)
+
+
+features:
+- this measure the statistics of those employees that are not working with respect to their job roles
+
 ![]()
 
 
